@@ -1,7 +1,7 @@
-e9f2637fa9aaa0a8b7237c95c37b306f *DESCRIPTION
+9a936777673c604f9041e4dc9ac78e67 *DESCRIPTION
 7069dfc66f81b5e5e347bae2470e19d4 *NAMESPACE
-edd84a022b3ec21d618dfaa7536fd468 *NEWS.md
-d634ac92bd476ee60200730fcbddbbc8 *R/as_monoclust.puls.R
+4f7a3a5ea2ac29e0fa5b76f73a4f6a64 *NEWS.md
+44ba499ee1fc22ba655ab28bab8fc276 *R/as_monoclust.puls.R
 60b444d746c7a954d01b5a2d9be7942b *R/data.R
 cbff6b4677dffb5f502b476d08e697e4 *R/fdistmatrix.R
 62fbf9ec450f0db0ddb11cd56d380d0e *R/ggwave.R
@@ -12,13 +12,13 @@ cbff6b4677dffb5f502b476d08e697e4 *R/fdistmatrix.R
 517aa258b8050c9e3bd40a74def8ee8a *R/puls.object.R
 3bd8dfd4db758e605821bd84bdc848ee *R/utils.R
 65d5a363bf8d8d24cebe2be83c1f7bcf *README.md
-362c4f9b87a42a646f9ebc4b5f2bb170 *build/partial.rdb
+899dc2b696476dded15922c80e7cbb31 *build/partial.rdb
 82ce51e21641fde6f0b948297889888e *build/vignette.rds
 ae03eee10c90b227f99b38dcc91c982b *data/arctic_2019.rda
 be8271a04fa88e0f8f0fe8b28ba6e673 *data/smoothed_arctic.rda
 31499b49389d345175929d439a3d5323 *inst/doc/puls.R
 f8bf9b9f1aa2fe3bb56cad94007631ac *inst/doc/puls.Rmd
-741a934e2a40566736d509b5307684ad *inst/doc/puls.html
+de1c1fe6897262a3a0c541839632f6a0 *inst/doc/puls.html
 800944ff8a22282e1fd2e90753022779 *man/PULS.Rd
 8288d5fda0c5703a58d416eedb50155a *man/PULS.object.Rd
 c086c280e1e1cd1e2cb922d099d78b76 *man/arctic_2019.Rd
@@ -39,7 +39,7 @@ aa7afb703efc077941819d77ea637b6a *man/splitter.Rd
 5e04e887c4a7662277df9638a3c3e212 *tests/figs/ggwave.svg
 9edf2feabf888564f6046e6018a0d177 *tests/figs/plot-puls.svg
 13e4b2ea1943e59f6e23cd6ea43a638a *tests/testthat.R
-47c7659872e637c58c0b22cb5162874a *tests/testthat/test-as_monoclust.puls.R
+ff1b5c27e5f011aab3035f966597978b *tests/testthat/test-as_monoclust.puls.R
 91e1c6379e938a76995fcd8927eb9e11 *tests/testthat/test-fdistmatrix.R
 ddf0be31077f05a683c7e09b394d0ee9 *tests/testthat/test-ggwave.R
 73c89b841008820ee9772ce0f091a7cf *tests/testthat/test-mean_fd.R
